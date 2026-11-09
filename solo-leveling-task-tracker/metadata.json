@@ -1,6 +1,0 @@
-{
-  "name": "Solo Leveling",
-  "description": "A gamified task manager based on the Solo Leveling System style, featuring experience levels, daily stat allocation, weekly punishment quests, and monthly chest rewards.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
