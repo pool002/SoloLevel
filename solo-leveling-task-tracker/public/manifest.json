@@ -1,0 +1,22 @@
+{
+  "name": "Solo Leveling",
+  "short_name": "Solo Leveling",
+  "description": "The Solo Leveling-inspired productivity & accountability system.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/?size=512&id=3v1sf52QwYVh&format=png&color=22D3EE",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/?size=192&id=3v1sf52QwYVh&format=png&color=22D3EE",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
